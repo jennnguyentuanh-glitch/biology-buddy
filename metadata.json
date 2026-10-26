@@ -1,0 +1,8 @@
+{
+  "name": "Bioo - Biology Buddy",
+  "description": "Clean, modern educational revision platform for Biology IGCSE with quizzes, flashcards, and leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
